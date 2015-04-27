@@ -1,0 +1,47 @@
+[25-Mar-2011 14:05:07] PHP Warning:  Invalid argument supplied for foreach() in /home1/titaniaa/public_html/test/tutoring/mockup/security/signup.php on line 78
+[25-Mar-2011 15:12:57] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 88
+[25-Mar-2011 15:12:57] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 99
+[25-Mar-2011 15:13:02] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 88
+[25-Mar-2011 15:13:02] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 99
+[25-Mar-2011 15:13:05] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 88
+[25-Mar-2011 15:13:05] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 99
+[25-Mar-2011 15:13:14] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 88
+[25-Mar-2011 15:13:14] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 99
+[25-Mar-2011 15:16:18] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 83
+[25-Mar-2011 15:16:18] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 83
+[25-Mar-2011 15:16:52] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 83
+[25-Mar-2011 15:16:52] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 83
+[25-Mar-2011 15:18:06] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 83
+[25-Mar-2011 15:18:06] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 83
+[25-Mar-2011 15:20:06] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 83
+[25-Mar-2011 15:20:06] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 83
+[25-Mar-2011 15:20:12] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 83
+[25-Mar-2011 15:20:12] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 83
+[25-Mar-2011 15:25:23] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 83
+[25-Mar-2011 15:25:23] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 83
+[25-Mar-2011 15:25:32] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 83
+[25-Mar-2011 15:25:32] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 83
+[25-Mar-2011 16:02:13] PHP Warning:  Invalid argument supplied for foreach() in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 83
+[25-Mar-2011 16:07:07] PHP Warning:  Invalid argument supplied for foreach() in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 83
+[28-Mar-2011 13:12:42] PHP Warning:  Invalid argument supplied for foreach() in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 102
+[28-Mar-2011 17:25:30] PHP Warning:  Invalid argument supplied for foreach() in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 102
+[28-Mar-2011 17:52:10] PHP Warning:  Invalid argument supplied for foreach() in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 102
+[28-Mar-2011 18:27:06] PHP Warning:  Invalid argument supplied for foreach() in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 102
+[28-Mar-2011 18:29:20] PHP Warning:  Invalid argument supplied for foreach() in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 102
+[28-Mar-2011 18:29:53] PHP Warning:  Invalid argument supplied for foreach() in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 102
+[28-Mar-2011 20:20:58] PHP Warning:  Invalid argument supplied for foreach() in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 102
+[29-Mar-2011 00:15:48] PHP Warning:  Invalid argument supplied for foreach() in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 102
+[29-Mar-2011 11:48:22] PHP Warning:  Invalid argument supplied for foreach() in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 102
+[29-Mar-2011 11:48:46] PHP Warning:  Invalid argument supplied for foreach() in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 102
+[29-Mar-2011 11:49:30] PHP Warning:  Invalid argument supplied for foreach() in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 102
+[29-Mar-2011 11:49:56] PHP Warning:  Invalid argument supplied for foreach() in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 102
+[29-Mar-2011 21:44:55] PHP Warning:  Invalid argument supplied for foreach() in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 102
+[29-Mar-2011 23:04:11] PHP Warning:  Invalid argument supplied for foreach() in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 102
+[03-Apr-2011 21:48:23] PHP Warning:  Invalid argument supplied for foreach() in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 102
+[04-Apr-2011 12:56:29] PHP Warning:  Invalid argument supplied for foreach() in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 102
+[07-Apr-2011 18:06:22] PHP Warning:  Invalid argument supplied for foreach() in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 102
+[11-Apr-2011 10:56:06] PHP Warning:  Invalid argument supplied for foreach() in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 102
+[11-Apr-2011 10:59:32] PHP Warning:  Invalid argument supplied for foreach() in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 102
+[12-Apr-2011 20:41:41] PHP Warning:  Invalid argument supplied for foreach() in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 102
+[12-Apr-2011 20:45:32] PHP Warning:  Invalid argument supplied for foreach() in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 102
+[15-Apr-2011 17:53:23] PHP Warning:  Invalid argument supplied for foreach() in /home1/titaniaa/public_html/test/tutoring/mockup/scripts/signup.js on line 102
